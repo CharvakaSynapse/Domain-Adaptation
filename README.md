@@ -63,7 +63,7 @@ Adding curriculum pseudo-labeling and consistency loss progressively improves th
 
 1. Download the [Office-31 dataset](https://faculty.cc.gatech.edu/~judy/domainadapt/).
 2. Organize it as described in the notebook.
-3. Launch `DANN_DA_FINAL.ipynb` and follow the step-by-step instructions.
+3. Launch `Domain-Adaptation.ipynb` and follow the step-by-step instructions.
 
 ---
 
