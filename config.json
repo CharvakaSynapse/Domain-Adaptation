@@ -1,0 +1,15 @@
+{
+    "seed": 7777,
+    "data_root": "./data",
+    "source_domain": "amazon/images",
+    "target_domain": "dslr/images",
+    "batch_size": 36,
+    "num_epochs": 40,
+    "num_classes": 31,
+    "trade_off": 1.0,
+    "eta": 0.1,
+    "random": true,
+    "pseudo_weight": 0.5,
+    "temperature": 2.0,
+    "consistency_weight": 0.9
+}
