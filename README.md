@@ -47,7 +47,7 @@ We visualize the learned feature space for source and target domains using t‑S
 </p>
 
 - **Left:** *CDAN Baseline* – Source (blue) and target (orange) clusters are often separated, indicating incomplete domain alignment.
-- **Center:** *Class-Balanced Curriculum Pseudo-Labeling* – Source and target features overlap more, showing improved adaptation.
+- **Center:** *Class-Balanced Curriculum Pseudo-Labeling* – Source and target features overlap slightly more than the baseline, but still indicating incomplete domain alignment.
 - **Right:** *Consistency Loss* – The highest degree of mixing; source and target clusters are nearly indistinguishable, indicating strong domain-invariant feature learning.
 
 **Takeaway:**  
